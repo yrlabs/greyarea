@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herin Kim | Built Environment Researcher</title>
+    <style>
+        /* The "Even Better" Minimalist CSS */
+        body {
+            margin: 40px auto;
+            max-width: 750px;
+            line-height: 1.6;
+            font-size: 18px;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 0 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+        h1, h2, h3 {
+            line-height: 1.2;
+            color: #111;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-top: 2em;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+            border-bottom: 1px solid #0056b3;
+        }
+        a:hover {
+            color: #111;
+            border-bottom: 2px solid #111;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .meta {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: -10px;
+            margin-bottom: 30px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+            display: block;
+            background-color: #eee;
+        }
+        .project-card {
+            background: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Herin Kim</h1>
+        <p class="meta">Built-Environment Researcher, Designer, & Strategist</p>
+        <p><strong>Trilingual (EN/KR/JP) Research Lead and Designer with a background in Material Science, Urban Policy, and Financial Analysis.</strong></p>
+        <p>I specialize in synthesizing complex technical datasets—from embodied carbon metrics to macroeconomic infrastructure trends—into high-fidelity visual and editorial outputs.</p>
+    </header>
+
+    <section>
+        <h2>Core Capabilities</h2>
+        <p>I don't just list previous jobs; I provide specific cognitive assets to architecture and urban planning firms.</p>
+        <ul>
+            <li><strong>Technical Synthesis:</strong> The ability to take raw data (Policy, Carbon counts, Material specs) and find the narrative. Proven ability to meet the "Gold Standard" of British editorial and technical accuracy.</li>
+            <li><strong>Material Literacy:</strong> A deep, tactile understanding of how substances perform in urban environments. Capability to perform comparative analysis on embodied carbon, durability, and lifecycle.</li>
+            <li><strong>Cross-Cultural Technical Liaison:</strong> Trilingual communication combined with technical design knowledge to bridge global projects.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Selected Work & Research</h2>
+        <p>A selection of methodology and outputs across policy, materials, and built environments.</p>
+
+        <div class="project-card">
+            <h3>01. Comparative Materials Database</h3>
+            <p><strong>Focus:</strong> Life Cycle Assessment (LCA) & Sustainability Metrics</p>
+            <p>Architected a robust comparative database evaluating materials (e.g., Cross Laminated Timber, Hempcrete, Fibre Reinforced Concrete) against parameters such as Embodied Carbon, MPa Strength, Density, and Lead Time. Utilized MATLAB to generate quantitative comparison models for sustainable architectural applications.</p>
+        </div>
+
+        <div class="project-card">
+            <h3>02. Global Data Centre Infrastructure</h3>
+            <p><strong>Focus:</strong> Strategic Infrastructure Analysis</p>
+            <p>Led a research team to deliver an in-depth, 40-page policy paper on the global data centre landscape. Navigated complex regulatory environments to produce a high-density, actionable report.</p>
+        </div>
+
+        <div class="project-card">
+            <h3>03. Field Research: Tactile Urbanism</h3>
+            <p><strong>Focus:</strong> Material Application & Public Space</p>
+            <p>Conducted qualitative and photographic field research on material performance in public spaces, including the thermal conductivity and safety metrics of playground surfacing (EWF vs. Rubber Crumb) and the specular reflectivity of architectural facades (Library of Birmingham).</p>
+        </div>
+        
+        <div class="project-card">
+            <h3>04. High-Pressure Editorial Synthesis</h3>
+            <p><strong>Focus:</strong> Technical Accuracy & Content Strategy</p>
+            <p>Successfully passed technical entrance bars for The Guardian and the Financial Times, proving top-tier editorial precision. Capable of translating niche industry discourse into engaging white papers and bid documents.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Why does this website look like this?</h2>
+        <p>Because it's lightweight, it fits on all of your screens, and it gets the point across without wasting your time. Just like my research.</p>
+    </section>
+
+    <section>
+        <h2>Let's Work Together</h2>
+        <p>I am currently seeking roles in Strategy & Research within the Built Environment. If you need someone who can bridge the gap between financial rules, urban policy, and physical materials, we should talk.</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:hello@example.com">hello@example.com</a></li>
+            <li><strong>Full Portfolio:</strong> <a href="#">Download PDF (10MB)</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
